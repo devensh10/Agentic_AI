@@ -1,0 +1,6 @@
+
+langchain
+langchain-community
+google-generativeai
+openai
+requests
